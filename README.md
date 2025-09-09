@@ -1,2 +1,2 @@
 readme
-fgfsdf fa af as 
+Bu bölümde proje detaylarına yer verilir.
